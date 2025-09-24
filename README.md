@@ -10,6 +10,7 @@ The only free Python Tool you'll even need.
 
 ![PATHon Screenshot](assets/pathon_splashscreen.png)
 <figcaption>PATHon — Your 'PATH' is now '-ON'! ✅</figcaption>
+Download here- https://github.com/happyman09/PATHon/releases/tag/v1.1
 
 ---
 
