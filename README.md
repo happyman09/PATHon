@@ -1,3 +1,4 @@
+![Downloads](https://img.shields.io/github/downloads/happyman09/PATHon/total?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/happyman09/PATHon?style=flat-square)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/happyman09/PATHon)
 ![GitHub issues](https://img.shields.io/github/issues/happyman09/PATHon)
